@@ -1,0 +1,1165 @@
+Waf: Entering directory `/home/itachi/repositories/gatech/fall_2017/ec6110_cad/ns-allinone-3.26/ns-3.26/build'
+Waf: Leaving directory `/home/itachi/repositories/gatech/fall_2017/ec6110_cad/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.777s)
+1
+Creating Mem Cache topology ..... 
+Server IP -- 10.200.1.2
+Hub IP -- 10.200.1.1
+Connections between Hub and Leaf nodes 
+Hub IP -- 10.1.1.1
+Spokes IP -- 10.1.1.2
+Mem Cache topology created and initalized ..... 
+Hello
+HubReceiveFromLeafCallBack , hub file request id : 53
+
+HubReceiveFromLeafCallBack , hub file request id : 39
+
+HubReceiveFromLeafCallBack , hub file request id : 32
+
+HubReceiveFromLeafCallBack , hub file request id : 24
+
+HubReceiveFromLeafCallBack , hub file request id : 23
+
+HubReceiveFromLeafCallBack , hub file request id : 52
+
+HubReceiveFromLeafCallBack , hub file request id : 6
+
+HubReceiveFromLeafCallBack , hub file request id : 38
+
+HubReceiveFromLeafCallBack , hub file request id : 61
+
+HubReceiveFromLeafCallBack , hub file request id : 40
+
+HubReceiveFromLeafCallBack , hub file request id : 53
+
+HubReceiveFromLeafCallBack , hub file request id : 36
+
+HubReceiveFromLeafCallBack , hub file request id : 15
+
+HubReceiveFromLeafCallBack , hub file request id : 54
+
+HubReceiveFromLeafCallBack , hub file request id : 1
+
+HubReceiveFromLeafCallBack , hub file request id : 54
+
+HubReceiveFromLeafCallBack , hub file request id : 61
+
+HubReceiveFromLeafCallBack , hub file request id : 54
+
+HubReceiveFromLeafCallBack , hub file request id : 4
+
+HubReceiveFromLeafCallBack , hub file request id : 33
+
+HubReceiveFromLeafCallBack , hub file request id : 14
+
+HubReceiveFromLeafCallBack , hub file request id : 22
+
+HubReceiveFromLeafCallBack , hub file request id : 24
+
+HubReceiveFromLeafCallBack , hub file request id : 23
+
+HubReceiveFromLeafCallBack , hub file request id : 62
+
+HubReceiveFromLeafCallBack , hub file request id : 31
+
+HubReceiveFromLeafCallBack , hub file request id : 22
+
+HubReceiveFromLeafCallBack , hub file request id : 19
+
+HubReceiveFromLeafCallBack , hub file request id : 59
+
+HubReceiveFromLeafCallBack , hub file request id : 45
+
+HubReceiveFromLeafCallBack , hub file request id : 30
+
+HubReceiveFromLeafCallBack , hub file request id : 19
+
+HubReceiveFromLeafCallBack , hub file request id : 29
+
+HubReceiveFromLeafCallBack , hub file request id : 7
+
+HubReceiveFromLeafCallBack , hub file request id : 49
+
+HubReceiveFromLeafCallBack , hub file request id : 0
+
+HubReceiveFromLeafCallBack , hub file request id : 37
+
+HubReceiveFromLeafCallBack , hub file request id : 48
+
+HubReceiveFromLeafCallBack , hub file request id : 38
+
+HubReceiveFromLeafCallBack , hub file request id : 33
+
+HubReceiveFromLeafCallBack , hub file request id : 11
+
+HubReceiveFromLeafCallBack , hub file request id : 22
+
+HubReceiveFromLeafCallBack , hub file request id : 56
+
+HubReceiveFromLeafCallBack , hub file request id : 10
+
+HubReceiveFromLeafCallBack , hub file request id : 24
+
+HubReceiveFromLeafCallBack , hub file request id : 24
+
+HubReceiveFromLeafCallBack , hub file request id : 46
+
+HubReceiveFromLeafCallBack , hub file request id : 17
+
+HubReceiveFromLeafCallBack , hub file request id : 42
+
+HubReceiveFromLeafCallBack , hub file request id : 18
+
+HubReceiveFromLeafCallBack , hub file request id : 35
+
+HubReceiveFromLeafCallBack , hub file request id : 24
+
+HubReceiveFromLeafCallBack , hub file request id : 37
+
+HubReceiveFromLeafCallBack , hub file request id : 30
+
+HubReceiveFromLeafCallBack , hub file request id : 10
+
+HubReceiveFromLeafCallBack , hub file request id : 8
+
+HubReceiveFromLeafCallBack , hub file request id : 52
+
+HubReceiveFromLeafCallBack , hub file request id : 41
+
+HubReceiveFromLeafCallBack , hub file request id : 26
+
+HubReceiveFromLeafCallBack , hub file request id : 40
+
+HubReceiveFromLeafCallBack , hub file request id : 34
+
+HubReceiveFromLeafCallBack , hub file request id : 3
+
+HubReceiveFromLeafCallBack , hub file request id : 4
+
+HubReceiveFromLeafCallBack , hub file request id : 30
+
+HubReceiveFromLeafCallBack , hub file request id : 35
+
+HubReceiveFromLeafCallBack , hub file request id : 46
+
+HubReceiveFromLeafCallBack , hub file request id : 62
+
+HubReceiveFromLeafCallBack , hub file request id : 16
+
+HubReceiveFromLeafCallBack , hub file request id : 12
+
+HubReceiveFromLeafCallBack , hub file request id : 64
+
+HubReceiveFromLeafCallBack , hub file request id : 46
+
+HubReceiveFromLeafCallBack , hub file request id : 55
+
+HubReceiveFromLeafCallBack , hub file request id : 49
+
+HubReceiveFromLeafCallBack , hub file request id : 59
+
+HubReceiveFromLeafCallBack , hub file request id : 37
+
+HubReceiveFromLeafCallBack , hub file request id : 33
+
+HubReceiveFromLeafCallBack , hub file request id : 41
+
+HubReceiveFromLeafCallBack , hub file request id : 59
+
+HubReceiveFromLeafCallBack , hub file request id : 26
+
+HubReceiveFromLeafCallBack , hub file request id : 17
+
+HubReceiveFromLeafCallBack , hub file request id : 44
+
+HubReceiveFromLeafCallBack , hub file request id : 29
+
+HubReceiveFromLeafCallBack , hub file request id : 43
+
+HubReceiveFromLeafCallBack , hub file request id : 60
+
+HubReceiveFromLeafCallBack , hub file request id : 28
+
+HubReceiveFromLeafCallBack , hub file request id : 55
+
+HubReceiveFromLeafCallBack , hub file request id : 1
+
+HubReceiveFromLeafCallBack , hub file request id : 64
+
+HubReceiveFromLeafCallBack , hub file request id : 61
+
+HubReceiveFromLeafCallBack , hub file request id : 45
+
+HubReceiveFromLeafCallBack , hub file request id : 35
+
+HubReceiveFromLeafCallBack , hub file request id : 21
+
+HubReceiveFromLeafCallBack , hub file request id : 54
+
+HubReceiveFromLeafCallBack , hub file request id : 10
+
+HubReceiveFromLeafCallBack , hub file request id : 1
+
+HubReceiveFromLeafCallBack , hub file request id : 17
+
+HubReceiveFromLeafCallBack , hub file request id : 56
+
+HubReceiveFromLeafCallBack , hub file request id : 30
+
+HubReceiveFromLeafCallBack , hub file request id : 40
+
+HubReceiveFromLeafCallBack , hub file request id : 29
+
+HubReceiveFromLeafCallBack , hub file request id : 0
+
+ServerReceiveFromHubCallBack , request id : 53
+
+HubReceiveFromLeafCallBack , hub file request id : 48
+
+ServerReceiveFromHubCallBack , request id : 39
+
+HubReceiveFromLeafCallBack , hub file request id : 64
+
+ServerReceiveFromHubCallBack , request id : 32
+
+HubReceiveFromLeafCallBack , hub file request id : 1
+
+ServerReceiveFromHubCallBack , request id : 24
+
+HubReceiveFromLeafCallBack , hub file request id : 44
+
+ServerReceiveFromHubCallBack , request id : 23
+
+HubReceiveFromLeafCallBack , hub file request id : 55
+
+ServerReceiveFromHubCallBack , request id : 52
+
+HubReceiveFromLeafCallBack , hub file request id : 39
+
+ServerReceiveFromHubCallBack , request id : 6
+
+HubReceiveFromLeafCallBack , hub file request id : 46
+
+ServerReceiveFromHubCallBack , request id : 38
+
+HubReceiveFromLeafCallBack , hub file request id : 3
+
+ServerReceiveFromHubCallBack , request id : 61
+
+HubReceiveFromLeafCallBack , hub file request id : 0
+
+ServerReceiveFromHubCallBack , request id : 40
+
+HubReceiveFromLeafCallBack , hub file request id : 22
+
+ServerReceiveFromHubCallBack , request id : 53
+
+HubReceiveFromLeafCallBack , hub file request id : 4
+
+ServerReceiveFromHubCallBack , request id : 36
+
+HubReceiveFromLeafCallBack , hub file request id : 33
+
+ServerReceiveFromHubCallBack , request id : 15
+
+HubReceiveFromLeafCallBack , hub file request id : 18
+
+ServerReceiveFromHubCallBack , request id : 54
+
+HubReceiveFromLeafCallBack , hub file request id : 10
+
+ServerReceiveFromHubCallBack , request id : 1
+
+HubReceiveFromLeafCallBack , hub file request id : 54
+
+ServerReceiveFromHubCallBack , request id : 54
+
+HubReceiveFromLeafCallBack , hub file request id : 41
+
+ServerReceiveFromHubCallBack , request id : 61
+
+HubReceiveFromLeafCallBack , hub file request id : 61
+
+ServerReceiveFromHubCallBack , request id : 54
+
+HubReceiveFromLeafCallBack , hub file request id : 6
+
+ServerReceiveFromHubCallBack , request id : 4
+
+HubReceiveFromLeafCallBack , hub file request id : 44
+
+ServerReceiveFromHubCallBack , request id : 33
+
+HubReceiveFromLeafCallBack , hub file request id : 28
+
+ServerReceiveFromHubCallBack , request id : 14
+
+HubReceiveFromLeafCallBack , hub file request id : 16
+
+ServerReceiveFromHubCallBack , request id : 22
+
+HubReceiveFromLeafCallBack , hub file request id : 5
+
+ServerReceiveFromHubCallBack , request id : 24
+
+HubReceiveFromLeafCallBack , hub file request id : 6
+
+ServerReceiveFromHubCallBack , request id : 23
+
+HubReceiveFromLeafCallBack , hub file request id : 54
+
+ServerReceiveFromHubCallBack , request id : 62
+
+HubReceiveFromLeafCallBack , hub file request id : 62
+
+ServerReceiveFromHubCallBack , request id : 31
+
+HubReceiveFromLeafCallBack , hub file request id : 39
+
+ServerReceiveFromHubCallBack , request id : 22
+
+HubReceiveFromLeafCallBack , hub file request id : 58
+
+ServerReceiveFromHubCallBack , request id : 19
+
+ServerReceiveFromHubCallBack , request id : 59
+
+ServerReceiveFromHubCallBack , request id : 45
+
+ServerReceiveFromHubCallBack , request id : 30
+
+ServerReceiveFromHubCallBack , request id : 19
+
+ServerReceiveFromHubCallBack , request id : 29
+
+ServerReceiveFromHubCallBack , request id : 7
+
+ServerReceiveFromHubCallBack , request id : 49
+
+ServerReceiveFromHubCallBack , request id : 0
+
+ServerReceiveFromHubCallBack , request id : 37
+
+ServerReceiveFromHubCallBack , request id : 48
+
+ServerReceiveFromHubCallBack , request id : 38
+
+ServerReceiveFromHubCallBack , request id : 33
+
+ServerReceiveFromHubCallBack , request id : 11
+
+ServerReceiveFromHubCallBack , request id : 22
+
+ServerReceiveFromHubCallBack , request id : 56
+
+ServerReceiveFromHubCallBack , request id : 10
+
+ServerReceiveFromHubCallBack , request id : 24
+
+ServerReceiveFromHubCallBack , request id : 24
+
+ServerReceiveFromHubCallBack , request id : 46
+
+ServerReceiveFromHubCallBack , request id : 17
+
+ServerReceiveFromHubCallBack , request id : 42
+
+ServerReceiveFromHubCallBack , request id : 18
+
+ServerReceiveFromHubCallBack , request id : 35
+
+ServerReceiveFromHubCallBack , request id : 24
+
+ServerReceiveFromHubCallBack , request id : 37
+
+ServerReceiveFromHubCallBack , request id : 30
+
+ServerReceiveFromHubCallBack , request id : 10
+
+ServerReceiveFromHubCallBack , request id : 8
+
+ServerReceiveFromHubCallBack , request id : 52
+
+ServerReceiveFromHubCallBack , request id : 41
+
+ServerReceiveFromHubCallBack , request id : 26
+
+ServerReceiveFromHubCallBack , request id : 40
+
+ServerReceiveFromHubCallBack , request id : 34
+
+ServerReceiveFromHubCallBack , request id : 3
+
+ServerReceiveFromHubCallBack , request id : 4
+
+ServerReceiveFromHubCallBack , request id : 30
+
+ServerReceiveFromHubCallBack , request id : 35
+
+ServerReceiveFromHubCallBack , request id : 46
+
+ServerReceiveFromHubCallBack , request id : 62
+
+ServerReceiveFromHubCallBack , request id : 16
+
+ServerReceiveFromHubCallBack , request id : 12
+
+ServerReceiveFromHubCallBack , request id : 64
+
+ServerReceiveFromHubCallBack , request id : 46
+
+ServerReceiveFromHubCallBack , request id : 55
+
+ServerReceiveFromHubCallBack , request id : 49
+
+ServerReceiveFromHubCallBack , request id : 59
+
+ServerReceiveFromHubCallBack , request id : 37
+
+ServerReceiveFromHubCallBack , request id : 33
+
+ServerReceiveFromHubCallBack , request id : 41
+
+ServerReceiveFromHubCallBack , request id : 59
+
+ServerReceiveFromHubCallBack , request id : 26
+
+ServerReceiveFromHubCallBack , request id : 17
+
+ServerReceiveFromHubCallBack , request id : 44
+
+ServerReceiveFromHubCallBack , request id : 29
+
+ServerReceiveFromHubCallBack , request id : 43
+
+ServerReceiveFromHubCallBack , request id : 60
+
+ServerReceiveFromHubCallBack , request id : 28
+
+ServerReceiveFromHubCallBack , request id : 55
+
+ServerReceiveFromHubCallBack , request id : 1
+
+ServerReceiveFromHubCallBack , request id : 64
+
+ServerReceiveFromHubCallBack , request id : 61
+
+ServerReceiveFromHubCallBack , request id : 45
+
+ServerReceiveFromHubCallBack , request id : 35
+
+ServerReceiveFromHubCallBack , request id : 21
+
+ServerReceiveFromHubCallBack , request id : 54
+
+ServerReceiveFromHubCallBack , request id : 10
+
+ServerReceiveFromHubCallBack , request id : 1
+
+ServerReceiveFromHubCallBack , request id : 17
+
+ServerReceiveFromHubCallBack , request id : 56
+
+ServerReceiveFromHubCallBack , request id : 30
+
+ServerReceiveFromHubCallBack , request id : 40
+
+ServerReceiveFromHubCallBack , request id : 29
+
+ServerReceiveFromHubCallBack , request id : 0
+
+HubReceiveFromServerCallBack , server file response id : 53
+
+File Cache Miss :  File Id - 53 , star - 0
+ServerReceiveFromHubCallBack , request id : 48
+
+HubReceiveFromServerCallBack , server file response id : 39
+
+File Cache Miss :  File Id - 39 , star - 0
+ServerReceiveFromHubCallBack , request id : 64
+
+HubReceiveFromServerCallBack , server file response id : 32
+
+File Cache Miss :  File Id - 32 , star - 0
+ServerReceiveFromHubCallBack , request id : 1
+
+HubReceiveFromServerCallBack , server file response id : 24
+
+File Cache Miss :  File Id - 24 , star - 0
+ServerReceiveFromHubCallBack , request id : 44
+
+LeafReceiveFromHubCallBack , response id : 53
+
+HubReceiveFromServerCallBack , server file response id : 23
+
+File Cache Miss :  File Id - 23 , star - 0
+ServerReceiveFromHubCallBack , request id : 55
+
+LeafReceiveFromHubCallBack , response id : 39
+
+HubReceiveFromServerCallBack , server file response id : 52
+
+File Cache Miss :  File Id - 52 , star - 0
+ServerReceiveFromHubCallBack , request id : 39
+
+LeafReceiveFromHubCallBack , response id : 32
+
+HubReceiveFromServerCallBack , server file response id : 6
+
+File Cache Miss :  File Id - 6 , star - 0
+ServerReceiveFromHubCallBack , request id : 46
+
+LeafReceiveFromHubCallBack , response id : 24
+
+HubReceiveFromServerCallBack , server file response id : 38
+
+File Cache Miss :  File Id - 38 , star - 0
+ServerReceiveFromHubCallBack , request id : 3
+
+LeafReceiveFromHubCallBack , response id : 23
+
+HubReceiveFromServerCallBack , server file response id : 61
+
+File Cache Miss :  File Id - 61 , star - 0
+ServerReceiveFromHubCallBack , request id : 0
+
+LeafReceiveFromHubCallBack , response id : 52
+
+HubReceiveFromServerCallBack , server file response id : 40
+
+File Cache Miss :  File Id - 40 , star - 0
+ServerReceiveFromHubCallBack , request id : 22
+
+LeafReceiveFromHubCallBack , response id : 6
+
+HubReceiveFromServerCallBack , server file response id : 53
+
+File Cache Hit :  File Id - 53 , star - 0
+ServerReceiveFromHubCallBack , request id : 4
+
+LeafReceiveFromHubCallBack , response id : 38
+
+HubReceiveFromServerCallBack , server file response id : 36
+
+File Cache Miss :  File Id - 36 , star - 0
+ServerReceiveFromHubCallBack , request id : 33
+
+LeafReceiveFromHubCallBack , response id : 61
+
+HubReceiveFromServerCallBack , server file response id : 15
+
+File Cache Miss :  File Id - 15 , star - 0
+ServerReceiveFromHubCallBack , request id : 18
+
+LeafReceiveFromHubCallBack , response id : 40
+
+HubReceiveFromServerCallBack , server file response id : 54
+
+File Cache Miss :  File Id - 54 , star - 0
+ServerReceiveFromHubCallBack , request id : 10
+
+LeafReceiveFromHubCallBack , response id : 53
+
+HubReceiveFromServerCallBack , server file response id : 1
+
+File Cache Miss :  File Id - 1 , star - 0
+ServerReceiveFromHubCallBack , request id : 54
+
+LeafReceiveFromHubCallBack , response id : 36
+
+HubReceiveFromServerCallBack , server file response id : 54
+
+File Cache Hit :  File Id - 54 , star - 0
+ServerReceiveFromHubCallBack , request id : 41
+
+LeafReceiveFromHubCallBack , response id : 15
+
+HubReceiveFromServerCallBack , server file response id : 61
+
+File Cache Hit :  File Id - 61 , star - 0
+ServerReceiveFromHubCallBack , request id : 61
+
+LeafReceiveFromHubCallBack , response id : 54
+
+HubReceiveFromServerCallBack , server file response id : 54
+
+File Cache Hit :  File Id - 54 , star - 0
+ServerReceiveFromHubCallBack , request id : 6
+
+LeafReceiveFromHubCallBack , response id : 1
+
+HubReceiveFromServerCallBack , server file response id : 4
+
+File Cache Miss :  File Id - 4 , star - 0
+ServerReceiveFromHubCallBack , request id : 44
+
+LeafReceiveFromHubCallBack , response id : 54
+
+HubReceiveFromServerCallBack , server file response id : 33
+
+File Cache Miss :  File Id - 33 , star - 0
+ServerReceiveFromHubCallBack , request id : 28
+
+LeafReceiveFromHubCallBack , response id : 61
+
+HubReceiveFromServerCallBack , server file response id : 14
+
+File Cache Miss :  File Id - 14 , star - 0
+ServerReceiveFromHubCallBack , request id : 16
+
+LeafReceiveFromHubCallBack , response id : 54
+
+HubReceiveFromServerCallBack , server file response id : 22
+
+File Cache Miss :  File Id - 22 , star - 0
+ServerReceiveFromHubCallBack , request id : 5
+
+LeafReceiveFromHubCallBack , response id : 4
+
+HubReceiveFromServerCallBack , server file response id : 24
+
+File Cache Hit :  File Id - 24 , star - 0
+ServerReceiveFromHubCallBack , request id : 6
+
+LeafReceiveFromHubCallBack , response id : 33
+
+HubReceiveFromServerCallBack , server file response id : 23
+
+File Cache Hit :  File Id - 23 , star - 0
+ServerReceiveFromHubCallBack , request id : 54
+
+LeafReceiveFromHubCallBack , response id : 14
+
+HubReceiveFromServerCallBack , server file response id : 62
+
+File Cache Miss :  File Id - 62 , star - 0
+ServerReceiveFromHubCallBack , request id : 62
+
+LeafReceiveFromHubCallBack , response id : 22
+
+HubReceiveFromServerCallBack , server file response id : 31
+
+File Cache Miss :  File Id - 31 , star - 0
+ServerReceiveFromHubCallBack , request id : 39
+
+LeafReceiveFromHubCallBack , response id : 24
+
+HubReceiveFromServerCallBack , server file response id : 22
+
+File Cache Hit :  File Id - 22 , star - 0
+ServerReceiveFromHubCallBack , request id : 58
+
+LeafReceiveFromHubCallBack , response id : 23
+
+HubReceiveFromServerCallBack , server file response id : 19
+
+File Cache Miss :  File Id - 19 , star - 0
+LeafReceiveFromHubCallBack , response id : 62
+
+HubReceiveFromServerCallBack , server file response id : 59
+
+File Cache Miss :  File Id - 59 , star - 0
+LeafReceiveFromHubCallBack , response id : 31
+
+HubReceiveFromServerCallBack , server file response id : 45
+
+File Cache Miss :  File Id - 45 , star - 0
+LeafReceiveFromHubCallBack , response id : 22
+
+HubReceiveFromServerCallBack , server file response id : 30
+
+File Cache Miss :  File Id - 30 , star - 0
+LeafReceiveFromHubCallBack , response id : 19
+
+HubReceiveFromServerCallBack , server file response id : 19
+
+File Cache Hit :  File Id - 19 , star - 0
+LeafReceiveFromHubCallBack , response id : 59
+
+HubReceiveFromServerCallBack , server file response id : 29
+
+File Cache Miss :  File Id - 29 , star - 0
+LeafReceiveFromHubCallBack , response id : 45
+
+HubReceiveFromServerCallBack , server file response id : 7
+
+File Cache Miss :  File Id - 7 , star - 0
+LeafReceiveFromHubCallBack , response id : 30
+
+HubReceiveFromServerCallBack , server file response id : 49
+
+File Cache Miss :  File Id - 49 , star - 0
+LeafReceiveFromHubCallBack , response id : 19
+
+HubReceiveFromServerCallBack , server file response id : 0
+
+File Cache Miss :  File Id - 0 , star - 0
+LeafReceiveFromHubCallBack , response id : 29
+
+HubReceiveFromServerCallBack , server file response id : 37
+
+File Cache Miss :  File Id - 37 , star - 0
+LeafReceiveFromHubCallBack , response id : 7
+
+HubReceiveFromServerCallBack , server file response id : 48
+
+File Cache Miss :  File Id - 48 , star - 0
+LeafReceiveFromHubCallBack , response id : 49
+
+HubReceiveFromServerCallBack , server file response id : 38
+
+File Cache Hit :  File Id - 38 , star - 0
+LeafReceiveFromHubCallBack , response id : 0
+
+HubReceiveFromServerCallBack , server file response id : 33
+
+File Cache Hit :  File Id - 33 , star - 0
+LeafReceiveFromHubCallBack , response id : 37
+
+HubReceiveFromServerCallBack , server file response id : 11
+
+File Cache Miss :  File Id - 11 , star - 0
+LeafReceiveFromHubCallBack , response id : 48
+
+HubReceiveFromServerCallBack , server file response id : 22
+
+File Cache Hit :  File Id - 22 , star - 0
+LeafReceiveFromHubCallBack , response id : 38
+
+HubReceiveFromServerCallBack , server file response id : 56
+
+File Cache Miss :  File Id - 56 , star - 0
+LeafReceiveFromHubCallBack , response id : 33
+
+HubReceiveFromServerCallBack , server file response id : 10
+
+File Cache Miss :  File Id - 10 , star - 0
+LeafReceiveFromHubCallBack , response id : 11
+
+HubReceiveFromServerCallBack , server file response id : 24
+
+File Cache Hit :  File Id - 24 , star - 0
+LeafReceiveFromHubCallBack , response id : 22
+
+HubReceiveFromServerCallBack , server file response id : 24
+
+File Cache Hit :  File Id - 24 , star - 0
+LeafReceiveFromHubCallBack , response id : 56
+
+HubReceiveFromServerCallBack , server file response id : 46
+
+File Cache Miss :  File Id - 46 , star - 0
+LeafReceiveFromHubCallBack , response id : 10
+
+HubReceiveFromServerCallBack , server file response id : 17
+
+File Cache Miss :  File Id - 17 , star - 0
+LeafReceiveFromHubCallBack , response id : 24
+
+HubReceiveFromServerCallBack , server file response id : 42
+
+File Cache Miss :  File Id - 42 , star - 0
+LeafReceiveFromHubCallBack , response id : 24
+
+HubReceiveFromServerCallBack , server file response id : 18
+
+File Cache Miss :  File Id - 18 , star - 0
+LeafReceiveFromHubCallBack , response id : 46
+
+HubReceiveFromServerCallBack , server file response id : 35
+
+File Cache Miss :  File Id - 35 , star - 0
+LeafReceiveFromHubCallBack , response id : 17
+
+HubReceiveFromServerCallBack , server file response id : 24
+
+File Cache Hit :  File Id - 24 , star - 0
+LeafReceiveFromHubCallBack , response id : 42
+
+HubReceiveFromServerCallBack , server file response id : 37
+
+File Cache Hit :  File Id - 37 , star - 0
+LeafReceiveFromHubCallBack , response id : 18
+
+HubReceiveFromServerCallBack , server file response id : 30
+
+File Cache Hit :  File Id - 30 , star - 0
+LeafReceiveFromHubCallBack , response id : 35
+
+HubReceiveFromServerCallBack , server file response id : 10
+
+File Cache Hit :  File Id - 10 , star - 0
+LeafReceiveFromHubCallBack , response id : 24
+
+HubReceiveFromServerCallBack , server file response id : 8
+
+File Cache Miss :  File Id - 8 , star - 0
+LeafReceiveFromHubCallBack , response id : 37
+
+HubReceiveFromServerCallBack , server file response id : 52
+
+File Cache Hit :  File Id - 52 , star - 0
+LeafReceiveFromHubCallBack , response id : 30
+
+HubReceiveFromServerCallBack , server file response id : 41
+
+File Cache Miss :  File Id - 41 , star - 0
+LeafReceiveFromHubCallBack , response id : 10
+
+HubReceiveFromServerCallBack , server file response id : 26
+
+File Cache Miss :  File Id - 26 , star - 0
+LeafReceiveFromHubCallBack , response id : 8
+
+HubReceiveFromServerCallBack , server file response id : 40
+
+File Cache Hit :  File Id - 40 , star - 0
+LeafReceiveFromHubCallBack , response id : 52
+
+HubReceiveFromServerCallBack , server file response id : 34
+
+File Cache Miss :  File Id - 34 , star - 0
+LeafReceiveFromHubCallBack , response id : 41
+
+HubReceiveFromServerCallBack , server file response id : 3
+
+File Cache Miss :  File Id - 3 , star - 0
+LeafReceiveFromHubCallBack , response id : 26
+
+HubReceiveFromServerCallBack , server file response id : 4
+
+File Cache Hit :  File Id - 4 , star - 0
+LeafReceiveFromHubCallBack , response id : 40
+
+HubReceiveFromServerCallBack , server file response id : 30
+
+File Cache Hit :  File Id - 30 , star - 0
+LeafReceiveFromHubCallBack , response id : 34
+
+HubReceiveFromServerCallBack , server file response id : 35
+
+File Cache Hit :  File Id - 35 , star - 0
+LeafReceiveFromHubCallBack , response id : 3
+
+HubReceiveFromServerCallBack , server file response id : 46
+
+File Cache Hit :  File Id - 46 , star - 0
+LeafReceiveFromHubCallBack , response id : 4
+
+HubReceiveFromServerCallBack , server file response id : 62
+
+File Cache Hit :  File Id - 62 , star - 0
+LeafReceiveFromHubCallBack , response id : 30
+
+HubReceiveFromServerCallBack , server file response id : 16
+
+File Cache Miss :  File Id - 16 , star - 0
+LeafReceiveFromHubCallBack , response id : 35
+
+HubReceiveFromServerCallBack , server file response id : 12
+
+File Cache Miss :  File Id - 12 , star - 0
+LeafReceiveFromHubCallBack , response id : 46
+
+HubReceiveFromServerCallBack , server file response id : 64
+
+File Cache Miss :  File Id - 64 , star - 0
+LeafReceiveFromHubCallBack , response id : 62
+
+HubReceiveFromServerCallBack , server file response id : 46
+
+File Cache Hit :  File Id - 46 , star - 0
+LeafReceiveFromHubCallBack , response id : 16
+
+HubReceiveFromServerCallBack , server file response id : 55
+
+File Cache Miss :  File Id - 55 , star - 0
+LeafReceiveFromHubCallBack , response id : 12
+
+HubReceiveFromServerCallBack , server file response id : 49
+
+File Cache Hit :  File Id - 49 , star - 0
+LeafReceiveFromHubCallBack , response id : 64
+
+HubReceiveFromServerCallBack , server file response id : 59
+
+File Cache Hit :  File Id - 59 , star - 0
+LeafReceiveFromHubCallBack , response id : 46
+
+HubReceiveFromServerCallBack , server file response id : 37
+
+File Cache Hit :  File Id - 37 , star - 0
+LeafReceiveFromHubCallBack , response id : 55
+
+HubReceiveFromServerCallBack , server file response id : 33
+
+File Cache Hit :  File Id - 33 , star - 0
+LeafReceiveFromHubCallBack , response id : 49
+
+HubReceiveFromServerCallBack , server file response id : 41
+
+File Cache Hit :  File Id - 41 , star - 0
+LeafReceiveFromHubCallBack , response id : 59
+
+HubReceiveFromServerCallBack , server file response id : 59
+
+File Cache Hit :  File Id - 59 , star - 0
+LeafReceiveFromHubCallBack , response id : 37
+
+HubReceiveFromServerCallBack , server file response id : 26
+
+File Cache Hit :  File Id - 26 , star - 0
+LeafReceiveFromHubCallBack , response id : 33
+
+HubReceiveFromServerCallBack , server file response id : 17
+
+File Cache Hit :  File Id - 17 , star - 0
+LeafReceiveFromHubCallBack , response id : 41
+
+HubReceiveFromServerCallBack , server file response id : 44
+
+File Cache Miss :  File Id - 44 , star - 0
+LeafReceiveFromHubCallBack , response id : 59
+
+HubReceiveFromServerCallBack , server file response id : 29
+
+File Cache Hit :  File Id - 29 , star - 0
+LeafReceiveFromHubCallBack , response id : 26
+
+HubReceiveFromServerCallBack , server file response id : 43
+
+File Cache Miss :  File Id - 43 , star - 0
+LeafReceiveFromHubCallBack , response id : 17
+
+HubReceiveFromServerCallBack , server file response id : 60
+
+File Cache Miss :  File Id - 60 , star - 0
+LeafReceiveFromHubCallBack , response id : 44
+
+HubReceiveFromServerCallBack , server file response id : 28
+
+File Cache Miss :  File Id - 28 , star - 0
+LeafReceiveFromHubCallBack , response id : 29
+
+HubReceiveFromServerCallBack , server file response id : 55
+
+File Cache Hit :  File Id - 55 , star - 0
+LeafReceiveFromHubCallBack , response id : 43
+
+HubReceiveFromServerCallBack , server file response id : 1
+
+File Cache Hit :  File Id - 1 , star - 0
+LeafReceiveFromHubCallBack , response id : 60
+
+HubReceiveFromServerCallBack , server file response id : 64
+
+File Cache Hit :  File Id - 64 , star - 0
+LeafReceiveFromHubCallBack , response id : 28
+
+HubReceiveFromServerCallBack , server file response id : 61
+
+File Cache Hit :  File Id - 61 , star - 0
+LeafReceiveFromHubCallBack , response id : 55
+
+HubReceiveFromServerCallBack , server file response id : 45
+
+File Cache Hit :  File Id - 45 , star - 0
+LeafReceiveFromHubCallBack , response id : 1
+
+HubReceiveFromServerCallBack , server file response id : 35
+
+File Cache Hit :  File Id - 35 , star - 0
+LeafReceiveFromHubCallBack , response id : 64
+
+HubReceiveFromServerCallBack , server file response id : 21
+
+File Cache Miss :  File Id - 21 , star - 0
+LeafReceiveFromHubCallBack , response id : 61
+
+HubReceiveFromServerCallBack , server file response id : 54
+
+File Cache Hit :  File Id - 54 , star - 0
+LeafReceiveFromHubCallBack , response id : 45
+
+HubReceiveFromServerCallBack , server file response id : 10
+
+File Cache Hit :  File Id - 10 , star - 0
+LeafReceiveFromHubCallBack , response id : 35
+
+HubReceiveFromServerCallBack , server file response id : 1
+
+File Cache Hit :  File Id - 1 , star - 0
+LeafReceiveFromHubCallBack , response id : 21
+
+HubReceiveFromServerCallBack , server file response id : 17
+
+File Cache Hit :  File Id - 17 , star - 0
+LeafReceiveFromHubCallBack , response id : 54
+
+HubReceiveFromServerCallBack , server file response id : 56
+
+File Cache Hit :  File Id - 56 , star - 0
+LeafReceiveFromHubCallBack , response id : 10
+
+HubReceiveFromServerCallBack , server file response id : 30
+
+File Cache Hit :  File Id - 30 , star - 0
+LeafReceiveFromHubCallBack , response id : 1
+
+HubReceiveFromServerCallBack , server file response id : 40
+
+File Cache Hit :  File Id - 40 , star - 0
+LeafReceiveFromHubCallBack , response id : 17
+
+HubReceiveFromServerCallBack , server file response id : 29
+
+File Cache Hit :  File Id - 29 , star - 0
+LeafReceiveFromHubCallBack , response id : 56
+
+HubReceiveFromServerCallBack , server file response id : 0
+
+File Cache Hit :  File Id - 0 , star - 0
+LeafReceiveFromHubCallBack , response id : 30
+
+HubReceiveFromServerCallBack , server file response id : 48
+
+File Cache Hit :  File Id - 48 , star - 0
+LeafReceiveFromHubCallBack , response id : 40
+
+HubReceiveFromServerCallBack , server file response id : 64
+
+File Cache Hit :  File Id - 64 , star - 0
+LeafReceiveFromHubCallBack , response id : 29
+
+HubReceiveFromServerCallBack , server file response id : 1
+
+File Cache Hit :  File Id - 1 , star - 0
+LeafReceiveFromHubCallBack , response id : 0
+
+HubReceiveFromServerCallBack , server file response id : 44
+
+File Cache Hit :  File Id - 44 , star - 0
+LeafReceiveFromHubCallBack , response id : 48
+
+HubReceiveFromServerCallBack , server file response id : 55
+
+File Cache Hit :  File Id - 55 , star - 0
+LeafReceiveFromHubCallBack , response id : 64
+
+HubReceiveFromServerCallBack , server file response id : 39
+
+File Cache Hit :  File Id - 39 , star - 0
+LeafReceiveFromHubCallBack , response id : 1
+
+HubReceiveFromServerCallBack , server file response id : 46
+
+File Cache Hit :  File Id - 46 , star - 0
+LeafReceiveFromHubCallBack , response id : 44
+
+HubReceiveFromServerCallBack , server file response id : 3
+
+File Cache Hit :  File Id - 3 , star - 0
+LeafReceiveFromHubCallBack , response id : 55
+
+HubReceiveFromServerCallBack , server file response id : 0
+
+File Cache Hit :  File Id - 0 , star - 0
+LeafReceiveFromHubCallBack , response id : 39
+
+HubReceiveFromServerCallBack , server file response id : 22
+
+File Cache Hit :  File Id - 22 , star - 0
+LeafReceiveFromHubCallBack , response id : 46
+
+HubReceiveFromServerCallBack , server file response id : 4
+
+File Cache Hit :  File Id - 4 , star - 0
+LeafReceiveFromHubCallBack , response id : 3
+
+HubReceiveFromServerCallBack , server file response id : 33
+
+File Cache Hit :  File Id - 33 , star - 0
+LeafReceiveFromHubCallBack , response id : 0
+
+HubReceiveFromServerCallBack , server file response id : 18
+
+File Cache Hit :  File Id - 18 , star - 0
+LeafReceiveFromHubCallBack , response id : 22
+
+HubReceiveFromServerCallBack , server file response id : 10
+
+File Cache Hit :  File Id - 10 , star - 0
+LeafReceiveFromHubCallBack , response id : 4
+
+HubReceiveFromServerCallBack , server file response id : 54
+
+File Cache Hit :  File Id - 54 , star - 0
+LeafReceiveFromHubCallBack , response id : 33
+
+HubReceiveFromServerCallBack , server file response id : 41
+
+File Cache Hit :  File Id - 41 , star - 0
+LeafReceiveFromHubCallBack , response id : 18
+
+HubReceiveFromServerCallBack , server file response id : 61
+
+File Cache Hit :  File Id - 61 , star - 0
+LeafReceiveFromHubCallBack , response id : 10
+
+HubReceiveFromServerCallBack , server file response id : 6
+
+File Cache Hit :  File Id - 6 , star - 0
+LeafReceiveFromHubCallBack , response id : 54
+
+HubReceiveFromServerCallBack , server file response id : 44
+
+File Cache Hit :  File Id - 44 , star - 0
+LeafReceiveFromHubCallBack , response id : 41
+
+HubReceiveFromServerCallBack , server file response id : 28
+
+File Cache Hit :  File Id - 28 , star - 0
+LeafReceiveFromHubCallBack , response id : 61
+
+HubReceiveFromServerCallBack , server file response id : 16
+
+File Cache Hit :  File Id - 16 , star - 0
+LeafReceiveFromHubCallBack , response id : 6
+
+HubReceiveFromServerCallBack , server file response id : 5
+
+File Cache Miss :  File Id - 5 , star - 0
+LeafReceiveFromHubCallBack , response id : 44
+
+HubReceiveFromServerCallBack , server file response id : 6
+
+File Cache Hit :  File Id - 6 , star - 0
+LeafReceiveFromHubCallBack , response id : 28
+
+HubReceiveFromServerCallBack , server file response id : 54
+
+File Cache Hit :  File Id - 54 , star - 0
+LeafReceiveFromHubCallBack , response id : 16
+
+HubReceiveFromServerCallBack , server file response id : 62
+
+File Cache Hit :  File Id - 62 , star - 0
+LeafReceiveFromHubCallBack , response id : 5
+
+HubReceiveFromServerCallBack , server file response id : 39
+
+File Cache Hit :  File Id - 39 , star - 0
+LeafReceiveFromHubCallBack , response id : 6
+
+HubReceiveFromServerCallBack , server file response id : 58
+
+File Cache Miss :  File Id - 58 , star - 0
+LeafReceiveFromHubCallBack , response id : 54
+
+LeafReceiveFromHubCallBack , response id : 62
+
+LeafReceiveFromHubCallBack , response id : 39
+
+LeafReceiveFromHubCallBack , response id : 58
+
