@@ -1,0 +1,88 @@
+======================================== SUMMARY =======================================
+
+NumOfStars = 16
+NumOfSpokesPerStar = 64
+
+hubToServerBandWidth = 100Mbps
+HubToServerDelay = 100ms
+
+SpokeToHubBandWidth = 100Mbps
+SpokeToHubDelay = 1ms
+
+MaxPacketCount = 32
+InterPacketInterval = 0.0001
+
+CacheSize = 16 file entries
+
+Total Files Accessed = 32768	Total Time for File Access = 6477.34 s 
+
+Avg. File Access Time Of System = 0.197673 s
+
+=========================================================================================
+
+======================================== SUMMARY =======================================
+
+NumOfStars = 16
+NumOfSpokesPerStar = 64
+
+hubToServerBandWidth = 100Mbps
+HubToServerDelay = 100ms
+
+SpokeToHubBandWidth = 100Mbps
+SpokeToHubDelay = 1ms
+
+MaxPacketCount = 64
+InterPacketInterval = 0.0001
+
+CacheSize = 32 file entries
+
+Total Files Accessed = 65536	Total Time for File Access = 955.599 s 
+
+Avg. File Access Time Of System = 0.0145813 s
+
+=========================================================================================
+
+======================================== SUMMARY =======================================
+
+NumOfStars = 16
+NumOfSpokesPerStar = 64
+
+hubToServerBandWidth = 100Mbps
+HubToServerDelay = 100ms
+
+SpokeToHubBandWidth = 100Mbps
+SpokeToHubDelay = 1ms
+
+MaxPacketCount = 64
+InterPacketInterval = 0.0001
+
+CacheSize = 64 file entries
+
+Total Files Accessed = 65536	Total Time for File Access = 825.821 s 
+
+Avg. File Access Time Of System = 0.012601 s
+
+=========================================================================================
+
+======================================== SUMMARY =======================================
+
+NumOfStars = 16
+NumOfSpokesPerStar = 64
+
+hubToServerBandWidth = 100Mbps
+HubToServerDelay = 100ms
+
+SpokeToHubBandWidth = 100Mbps
+SpokeToHubDelay = 1ms
+
+MaxPacketCount = 64
+InterPacketInterval = 0.0001
+
+CacheSize = 0 file entries
+
+Total Files Accessed = 65536	Total Time for File Access = 35901 s 
+
+Avg. File Access Time Of System = 0.547806 s
+
+=========================================================================================
+
